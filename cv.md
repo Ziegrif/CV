@@ -1,6 +1,4 @@
-<meta charset="UTF-8">
-
-# CV Petteri Hellman
+ # CV Petteri Hellman
 
 ## Esittely
 
